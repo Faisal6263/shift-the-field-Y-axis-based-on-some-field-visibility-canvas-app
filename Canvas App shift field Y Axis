@@ -1,0 +1,4 @@
+If(LabelDateHeader_6.Visible, 
+   LabelDateHeader_6.Y + LabelDateHeader_6.Height + 110, 
+   LabelDateHeader_6.Y + 50
+)
