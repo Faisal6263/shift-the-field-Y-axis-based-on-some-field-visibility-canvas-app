@@ -2,3 +2,8 @@ If(LabelDateHeader_6.Visible,
    LabelDateHeader_6.Y + LabelDateHeader_6.Height + 110, 
    LabelDateHeader_6.Y + 50
 )
+
+If(CmbPaymentInterval.Visible, 
+   CmbPaymentInterval.Y + CmbPaymentInterval.Height + 130, 
+   CmbPaymentInterval.Y - 5
+)
